@@ -154,6 +154,12 @@ header nav ul a {
     padding: 48px 24px;
 }
 
+.cer-section__grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
 .cer-section__header {
     display: flex;
     justify-content: space-between;
